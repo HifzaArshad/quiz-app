@@ -1,0 +1,23 @@
+.container{
+    background-color: darkcyan;
+   margin-top: 10px !important;
+    height: 630px;
+    width: 500px;
+  margin:  0 auto;
+
+}
+h1{
+    text-align: center;
+}
+.result{
+     font-family: 'Ubuntu';
+     text-align: center;
+}
+.button{
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 240px;
+    height: 30px;   
+font-weight: bold;
+  background-color: aqua;
+}
